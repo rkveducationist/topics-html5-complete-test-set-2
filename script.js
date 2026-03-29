@@ -112,7 +112,7 @@ timeLeft=60
 
 editor.getWrapperElement().style.display="block"
 
-timeLeft=180
+timeLeft=360
 
 }
 
